@@ -3,12 +3,15 @@ const cors = require("cors");
 const axios = require('axios');
 const app = express();
 
-// Usa la variable de entorno FRONTEND_URL
+// Load environment variables from .env file
+require('dotenv').config();
+
+// Use the FRONTEND_URL environment variable
 app.use(cors({
     origin: process.env.FRONTEND_URL || 'http://localhost:3000'
 }));
 
-// Usa la variable de entorno PORT
+// Use the PORT environment variable
 const port = process.env.PORT || 3003;
 
 app.get('/webair', async (req, res) => {
