@@ -1,0 +1,109 @@
+[{
+	"id": "EZTTTGOTD78432",
+	"station_name": "EZTTTGOTD78432",
+	"scientificName": "CanAirIO Air quality Station",
+	"ownerInstitutionCodeProperty": "CanAirIO",
+	"type": "FixedStation",
+	"license": "CC BY-NC-SA",
+	"measurements": [
+		[{
+			"measurementID": "2022-03-15T16:29:07.913361Z",
+			"measurementType": "PM1",
+			"measurementUnit": "ug/m3",
+			"measurementDeterminedDate ": "2022-03-15T16:29:07.913361Z",
+			"measurementDeterminedBy": "CanAirIO station EZTTTGOTD78432",
+			"measurementValue": 10
+		}, {
+			"measurementID": "2022-03-15T16:29:07.913361Z",
+			"measurementType": "PM2.5",
+			"measurementUnit": "ug/m3",
+			"measurementDeterminedDate ": "2022-03-15T16:29:07.913361Z",
+			"measurementDeterminedBy": "CanAirIO station EZTTTGOTD78432",
+			"measurementValue": 18
+		}, {
+			"measurementID": "2022-03-15T16:29:07.913361Z",
+			"measurementType": "PM10",
+			"measurementUnit": "ug/m3",
+			"measurementDeterminedDate ": "2022-03-15T16:29:07.913361Z",
+			"measurementDeterminedBy": "CanAirIO station EZTTTGOTD78432",
+			"measurementValue": 27
+		}, {
+			"measurementID": "2022-03-15T16:29:07.913361Z",
+			"measurementType": "Temperature",
+			"measurementUnit": "C",
+			"measurementDeterminedDate ": "2022-03-15T16:29:07.913361Z",
+			"measurementDeterminedBy": "CanAirIO station EZTTTGOTD78432",
+			"measurementValue": 24.1
+		}, {
+			"measurementID": "2022-03-15T16:29:07.913361Z",
+			"measurementType": "Humidity",
+			"measurementUnit": "%",
+			"measurementDeterminedDate ": "2022-03-15T16:29:07.913361Z",
+			"measurementDeterminedBy": "CanAirIO station EZTTTGOTD78432",
+			"measurementValue": 36.6
+		}, {
+			"measurementID": "2022-03-15T16:29:07.913361Z",
+			"measurementType": "Pressure",
+			"measurementUnit": "hPa",
+			"measurementDeterminedDate ": "2022-03-15T16:29:07.913361Z",
+			"measurementDeterminedBy": "CanAirIO station EZTTTGOTD78432",
+			"measurementValue": 0.0
+		}, {
+			"measurementID": "2022-03-15T16:29:07.913361Z",
+			"measurementType": "CO2",
+			"measurementUnit": "ppm",
+			"measurementDeterminedDate ": "2022-03-15T16:29:07.913361Z",
+			"measurementDeterminedBy": "CanAirIO station EZTTTGOTD78432",
+			"measurementValue": 0
+		}, {
+			"measurementID": "2022-03-15T16:29:07.913361Z",
+			"measurementType": "CO2 Temperature",
+			"measurementUnit": "C",
+			"measurementDeterminedDate ": "2022-03-15T16:29:07.913361Z",
+			"measurementDeterminedBy": "CanAirIO station EZTTTGOTD78432",
+			"measurementValue": 0.0
+		}, {
+			"measurementID": "2022-03-15T16:29:07.913361Z",
+			"measurementType": "CO2 Humidity",
+			"measurementUnit": "%",
+			"measurementDeterminedDate ": "2022-03-15T16:29:07.913361Z",
+			"measurementDeterminedBy": "CanAirIO station EZTTTGOTD78432",
+			"measurementValue": 0.0
+		}, {
+			"measurementID": "2022-03-15T16:29:07.913361Z",
+			"measurementType": "Battery voltage",
+			"measurementUnit": "V",
+			"measurementDeterminedDate ": "2022-03-15T16:29:07.913361Z",
+			"measurementDeterminedBy": "CanAirIO station EZTTTGOTD78432",
+			"measurementValue": 4.96
+		}, {
+			"measurementID": "2022-03-15T16:29:07.913361Z",
+			"measurementType": "Geohash",
+			"measurementUnit": "",
+			"measurementDeterminedDate ": "2022-03-15T16:29:07.913361Z",
+			"measurementDeterminedBy": "CanAirIO station EZTTTGOTD78432",
+			"measurementValue": "ezty5zs"
+		}, {
+			"measurementID": "2022-03-15T16:29:07.913361Z",
+			"measurementType": "Geohash3",
+			"measurementUnit": "",
+			"measurementDeterminedDate ": "2022-03-15T16:29:07.913361Z",
+			"measurementDeterminedBy": "CanAirIO station EZTTTGOTD78432",
+			"measurementValue": "ezt"
+		}, {
+			"measurementID": "2022-03-15T16:29:07.913361Z",
+			"measurementType": "Version",
+			"measurementUnit": "",
+			"measurementDeterminedDate ": "2022-03-15T16:29:07.913361Z",
+			"measurementDeterminedBy": "CanAirIO station EZTTTGOTD78432",
+			"measurementValue": "v0.5.2r907"
+		}]
+	],
+	"locationID": "2022-03-15T16:29:07.913361Z",
+	"georeferencedBy": "CanAirIO firmware v0.5.2r907",
+	"georeferencedDate": "2022-03-15T16:29:07.913361Z",
+	"decimalLatitude ": 43.28,
+	"decimalLongitude ": -2.99,
+	"geohash": "ezty5zs",
+	"observedOn": "2022-03-15T16:29:07.913361Z"
+}]
